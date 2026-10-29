@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <!-- Third-party libraries (Libs\). Load order matters. -->
+    <Script file="Libs\LibStub\LibStub.lua"/>
+    <Include file="Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml"/>
+    <Include file="Libs\AceGUI-3.0\AceGUI-3.0.xml"/>
+    <Include file="Libs\AceConfig-3.0\AceConfigRegistry-3.0\AceConfigRegistry-3.0.xml"/>
+    <Include file="Libs\AceConfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.xml"/>
+    <Include file="Libs\LibSharedMedia-3.0\lib.xml"/>
+    <Include file="Libs\AceGUI-3.0-SharedMediaWidgets\widget.xml"/>
+</Ui>

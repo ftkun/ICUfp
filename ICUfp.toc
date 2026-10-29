@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: |cFFFF0000ICU|rfp (I See You |cFFFF0000forward port|r)
+## Notes: An Addon for World of Warcraft's Hunter (druid cat form also), allowing blips on tracking radar to be identified and/or targetted.
+## Author: Original: Jebji, Dwarf Hunter, Blackrock, MMC Guild, sul_phure@hotmail.com, Jan 2005 Modded by Sorren of Bleeding Hollow; Ftkun (forward port 2026)
+## Version: 2.0.01 (alpha) 23 october 2026
+## OptionalDeps: Ace3, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets
+## SavedVariables: ICUfpDB
+## SavedVariablesPerCharacter: ICUfpCharDB
+
+embeds.xml
+Locale.lua
+Core.lua
+Scan.lua
+UI.lua
+OptionsUI.lua
+Config.lua
