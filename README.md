@@ -1,6 +1,6 @@
 # ICUfp — I See You (forward port)
 
-World of Warcraft Classic addon for Hunters (and Druids in Cat Form). Click a tracking blip on the minimap to identify the unit, target it, mark it, ping it, or announce it to chat.
+World of Warcraft forever addon for Hunters (and Druids in Cat Form). Click a tracking blip on the minimap to identify the unit, target it, mark it, ping it, or announce it to chat.
 
 Forward port of the original **ICU** addon by Jebji (Dwarf Hunter, Blackrock, 2005), later modded by Sorren of Bleeding Hollow. Port by Ftkun, 2026.
 
