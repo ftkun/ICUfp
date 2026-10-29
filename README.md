@@ -52,3 +52,7 @@ Each library is the work of its respective authors and remains under its own lic
 ICUfp is released under the **GNU General Public License v2.0** (GPL-2.0). See <https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>.
 
 Bundled libraries in `libs/` are excluded from this license and keep their original licenses.
+
+## Credits
+
+Forward port developed with assistance from Claude (Anthropic).
